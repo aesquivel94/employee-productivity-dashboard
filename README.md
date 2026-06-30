@@ -1,3 +1,3 @@
-# Employee Productivity Dashboard
+# Returns Workforce Productivity & Labor Optimization
 
 Workforce productivity analytics project using Python and Google Sheets to monitor employee performance, target attainment, attendance, and operational KPIs.
